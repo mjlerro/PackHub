@@ -907,13 +907,13 @@ https://youtu.be/FzpEcaiDjkk
 [Link](http://52.91.46.196/)
 
 ### Final Report
-[Link](https://github.ncsu.edu/CSC-WebApps-F21/WEBAPPS-01/blob/master/documentation/finalReport.md)
+[Link](https://github.com/mjlerro/PackHub/blob/master/documentation/finalReport.md)
 
 ### Runbook
-[Link](https://github.ncsu.edu/CSC-WebApps-F21/WEBAPPS-01/blob/master/documentation/readbook.md)
+[Link](https://github.com/mjlerro/PackHub/blob/master/documentation/readbook.md)
 
 ### Acceptance Testing
-[Link](https://github.ncsu.edu/CSC-WebApps-F21/WEBAPPS-01/blob/master/documentation/Black%20Box%20Tests_%20PackHub.pdf)
+[Link](https://github.com/mjlerro/PackHub/blob/master/documentation/Black%20Box%20Tests_%20PackHub.pdf)
 
 ### Screencast
 [Link](https://drive.google.com/file/d/1qGxaS2le_FWMaIkM8uR2mDla8sRo1zYW/view?usp=sharing)
